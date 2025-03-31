@@ -1,6 +1,6 @@
 # Kafka Replay CLI
 
-[![PyPI version](https://badge.fury.io/py/kafka-replay.svg)](https://pypi.org/project/kafka-replay/)
+[![PyPI version](https://badge.fury.io/py/kafka-replay.svg)](https://pypi.org/project/kafka-replay/0.1.0)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 A simple command-line tool to fetch Kafka messages from a specific time range. Useful for replaying messages or debugging Kafka topics.
